@@ -7,7 +7,10 @@
 #SBATCH --mail-type=ALL
 #SBATCH --output=%x.%j.out
 
+#load module
 module load prokka
 
+#run prokka
 prokka --outdir ~/Genome_Analysis/outputs/03-annotation/ --prefix E.faecium-annotation \
 	~/Genome_Analysis/outputs/01-genome-assembly/E.faecium.contigs.fasta
+
