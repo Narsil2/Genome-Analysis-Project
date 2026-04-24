@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.050*1.15] collected minimizers
+[M::mm_idx_gen::0.062*1.30] sorted minimizers
+[M::main::0.062*1.30] loaded/built the index for 2 target sequence(s)
+[M::mm_mapopt_update::0.065*1.29] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 2
+[M::mm_idx_stat::0.067*1.28] distinct minimizers: 271956 (97.39% are singletons); average occurrences: 1.073; average spacing: 10.005; total length: 2919198
+[M::worker_pipeline::0.628*1.16] mapped 11 sequences
+[M::main] Version: 2.24-r1122
+[M::main] CMD: /sw/arch/eb/software/QUAST/5.2.0-foss-2024a-Python-2.7.18/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 -c -x asm10 -B5 -O4,16 --no-long-join -r 200 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 24 /gorilla/home/yogesh22/Genome_Anlaysis/scripts/02-assembly-evaluation/quast_results/results_2026_04_24_10_17_56/quast_corrected_input/GCF_009734005.1_ASM973400v2_genomic.fna /gorilla/home/yogesh22/Genome_Anlaysis/scripts/02-assembly-evaluation/quast_results/results_2026_04_24_10_17_56/quast_corrected_input/E-faecium-contigs.fasta
+[M::main] Real time: 0.632 sec; CPU: 0.731 sec; Peak RSS: 0.096 GB
