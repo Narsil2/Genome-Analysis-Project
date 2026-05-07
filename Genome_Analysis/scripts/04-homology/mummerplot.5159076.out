@@ -1,0 +1,2 @@
+mummer: src/essaMEM/fasta.cpp:64: void load_fasta(const std::string&, std::string&, std::vector<std::__cxx11::basic_string<char> >&, std::vector<long int>&): Assertion `line.back() != '\r'' failed.
+/var/spool/slurmd/job5159076/slurm_script: line 12: 1766112 Aborted                 (core dumped) mummer E.faecium-strainVRE095.fasta E.faecium.contigs.fasta

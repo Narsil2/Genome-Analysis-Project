@@ -9,7 +9,7 @@
 
 module load BLAST+
 
-blastn -db 'E.faecium-strainVRE095.fasta' \
+blastn -db 'placeholder' \ #fix issue with blast databases in uppmax
 	-query /home/yogesh22/Genome_Analysis/outputs/01-genome-assembly/E.faecium.contigs.fasta \
 	-out /home/yogesh22/Genome_Analysis/outputs/04-homology/blast.hits
 
