@@ -9,4 +9,6 @@
 
 module load MUMmer
 
-mummer E.faecium-strainVRE095.fasta E.faecium.contigs.fasta
+nucmer E.faecium-strainVRE095.fasta E.faecium.contigs.fasta
+
+mummerplot --png --layout -p mummerplot out.delta
