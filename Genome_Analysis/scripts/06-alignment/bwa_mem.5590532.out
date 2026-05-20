@@ -1,0 +1,117 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"samtools"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "samtools"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+/var/spool/slurmd/job5590532/slurm_script: line 37: samtools: command not found
+/var/spool/slurmd/job5590532/slurm_script: line 36: samtools: command not found
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 401802 sequences (40000160 bp)...
+[M::process] read 402010 sequences (40000034 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 190169, 10, 4)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (106, 128, 165)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 283)
+[M::mem_pestat] mean and std.dev: (136.42, 44.26)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 342)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (13, 52, 144)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 406)
+[M::mem_pestat] mean and std.dev: (41.00, 46.62)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 537)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::mem_process_seqs] Processed 401802 reads in 14.584 CPU sec, 3.698 real sec
+/var/spool/slurmd/job5590532/slurm_script: line 36: samtools: command not found
+/var/spool/slurmd/job5590532/slurm_script: line 37: samtools: command not found
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 401682 sequences (40000163 bp)...
+[M::process] read 401888 sequences (40000003 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (2, 190309, 4, 3)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (110, 135, 177)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 311)
+[M::mem_pestat] mean and std.dev: (144.99, 49.83)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 378)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 401682 reads in 14.521 CPU sec, 3.680 real sec
+/var/spool/slurmd/job5590532/slurm_script: line 36: samtools: command not found
+/var/spool/slurmd/job5590532/slurm_script: line 37: samtools: command not found
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 401834 sequences (40000138 bp)...
+[M::process] read 402076 sequences (40000024 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 190510, 6, 4)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (108, 132, 172)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 300)
+[M::mem_pestat] mean and std.dev: (141.39, 47.84)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 364)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 401834 reads in 14.473 CPU sec, 3.670 real sec
+/var/spool/slurmd/job5590532/slurm_script: line 48: samtools: command not found
+/var/spool/slurmd/job5590532/slurm_script: line 49: samtools: command not found
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 401648 sequences (40000021 bp)...
+[M::process] read 401958 sequences (40000097 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (4, 185224, 8, 6)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (103, 124, 155)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 259)
+[M::mem_pestat] mean and std.dev: (130.24, 39.48)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 311)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 401648 reads in 14.668 CPU sec, 3.725 real sec
+/var/spool/slurmd/job5590532/slurm_script: line 48: samtools: command not found
+/var/spool/slurmd/job5590532/slurm_script: line 49: samtools: command not found
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 401634 sequences (40000098 bp)...
+[M::process] read 401862 sequences (40000126 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (2, 184770, 13, 4)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (107, 129, 164)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 278)
+[M::mem_pestat] mean and std.dev: (136.83, 42.52)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 335)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (5, 28, 70)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 200)
+[M::mem_pestat] mean and std.dev: (25.09, 22.55)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 265)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::mem_process_seqs] Processed 401634 reads in 14.497 CPU sec, 3.671 real sec
+/var/spool/slurmd/job5590532/slurm_script: line 48: samtools: command not found
+/var/spool/slurmd/job5590532/slurm_script: line 49: samtools: command not found
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 401754 sequences (40000106 bp)...
+[M::process] read 401978 sequences (40000023 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (2, 185481, 10, 4)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (105, 126, 159)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 267)
+[M::mem_pestat] mean and std.dev: (133.42, 40.64)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 321)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (20, 112, 316)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 908)
+[M::mem_pestat] mean and std.dev: (103.00, 113.85)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 1204)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::mem_process_seqs] Processed 401754 reads in 14.630 CPU sec, 3.714 real sec
