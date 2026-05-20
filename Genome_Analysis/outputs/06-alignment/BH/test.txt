@@ -1,1 +1,1 @@
-
+This txt file exists just to show this directory in the project. The sam files were not pushed to the repo because they were too big.
