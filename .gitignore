@@ -1,3 +1,4 @@
 /Genome_Analysis/outputs/01-genome-assembly/
 ~/Big_Data/
-
+~/Genome_Analysis/outputs/06-alignment/BH/*.sam
+~/Genome_Analysis/outputs/06-alignment/Serum/*.sam
