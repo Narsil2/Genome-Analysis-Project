@@ -1,0 +1,2 @@
+comparison	total_counted_genes	genes_after_filtering	annotation_matches	annotation_match_percentage	genes_with_gene_symbol	genes_with_product_description	significant_genes	upregulated_in_comparison	downregulated_in_comparison	adjusted_p_value_threshold	absolute_log2_fold_change_threshold
+serum versus BHI	3118	2831	3118	100	1450	2831	515	310	205	0.001	2
