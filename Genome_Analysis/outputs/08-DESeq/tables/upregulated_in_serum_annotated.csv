@@ -1,0 +1,423 @@
+baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,gene_id,locus_tag,feature_type,gene_symbol,product,EC_number,COG,display_name,plot_label,classification
+3661.196864,9.349949799,0.248734027,37.59015167,0.00E+00,5.34E-308,AENJPLPP_00588,AENJPLPP_00588,CDS,purS,Phosphoribosylformylglycinamidine synthase subunit PurS,6.3.5.3,COG1828,purS,"purS
+(AENJPLPP_00588)",Up in serum
+15776.05514,9.160367445,0.504406141,18.16069771,1.06E-73,4.90E-73,AENJPLPP_00587,AENJPLPP_00587,CDS,purQ,Phosphoribosylformylglycinamidine synthase subunit PurQ,6.3.5.3,COG0047,purQ,"purQ
+(AENJPLPP_00587)",Up in serum
+18940.01554,8.99458824,0.390936079,23.00782331,3.89E-117,2.53E-116,AENJPLPP_00589,AENJPLPP_00589,CDS,purC,Phosphoribosylaminoimidazole-succinocarboxamide synthase,6.3.2.6,COG0152,purC,"purC
+(AENJPLPP_00589)",Up in serum
+56111.1397,8.910571134,0.418395801,21.29698985,1.21E-100,7.01E-100,AENJPLPP_00586,AENJPLPP_00586,CDS,purL,Phosphoribosylformylglycinamidine synthase subunit PurL,6.3.5.3,COG0046,purL,"purL
+(AENJPLPP_00586)",Up in serum
+25278.01636,8.781248953,0.322857246,27.19854998,6.76E-163,5.66E-162,AENJPLPP_00585,AENJPLPP_00585,CDS,purF,Amidophosphoribosyltransferase,2.4.2.14,,purF,"purF
+(AENJPLPP_00585)",Up in serum
+23576.95994,8.389353691,0.246556051,34.02615209,9.15E-254,1.24E-252,AENJPLPP_00584,AENJPLPP_00584,CDS,purM,Phosphoribosylformylglycinamidine cyclo-ligase,6.3.3.1,COG0150,purM,"purM
+(AENJPLPP_00584)",Up in serum
+33334.84877,8.313467032,0.297827311,27.91371615,1.82E-171,1.59E-170,AENJPLPP_00582,AENJPLPP_00582,CDS,purH,Bifunctional purine biosynthesis protein PurH,,,purH,"purH
+(AENJPLPP_00582)",Up in serum
+39088.53882,8.283628792,0.278130796,29.78321319,6.45E-195,6.56E-194,AENJPLPP_00581,AENJPLPP_00581,CDS,purD,Phosphoribosylamine--glycine ligase,6.3.4.13,COG0151,purD,"purD
+(AENJPLPP_00581)",Up in serum
+7811.816549,8.063523959,0.228814964,35.24036984,4.82E-272,6.92E-271,AENJPLPP_00583,AENJPLPP_00583,CDS,purN,Phosphoribosylglycinamide formyltransferase,2.1.2.2,,purN,"purN
+(AENJPLPP_00583)",Up in serum
+14315.02226,7.745392281,0.099258945,78.03218383,0,0,AENJPLPP_00528,AENJPLPP_00528,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+3792.75713,7.354386354,0.134619811,54.63078781,0,0,AENJPLPP_00310,AENJPLPP_00310,CDS,gspA_1,General stress protein A,,COG1442,gspA_1,"gspA_1
+(AENJPLPP_00310)",Up in serum
+74330.14738,7.318135692,0.083741222,87.38988385,0,0,AENJPLPP_02292,AENJPLPP_02292,CDS,dppE,Dipeptide-binding protein DppE,,COG4166,dppE,"dppE
+(AENJPLPP_02292)",Up in serum
+10020.32566,7.272029697,0.206580773,35.20187095,1.87E-271,2.68E-270,AENJPLPP_00314,AENJPLPP_00314,CDS,yghA,putative oxidoreductase YghA,1.-.-.-,,yghA,"yghA
+(AENJPLPP_00314)",Up in serum
+2413.709559,7.014615766,0.148957431,47.09141201,0,0,AENJPLPP_00311,AENJPLPP_00311,CDS,gspA_2,General stress protein A,,COG1442,gspA_2,"gspA_2
+(AENJPLPP_00311)",Up in serum
+3567.920583,6.988844674,0.131731012,53.05390544,0,0,AENJPLPP_00313,AENJPLPP_00313,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+6882.973258,6.98730718,0.100584906,69.46675651,0,0,AENJPLPP_02294,AENJPLPP_02294,CDS,oppB,Oligopeptide transport system permease protein OppB,,COG0601,oppB,"oppB
+(AENJPLPP_02294)",Up in serum
+132.050286,6.543335142,0.502123937,13.03131489,8.12E-39,2.48E-38,AENJPLPP_00940,AENJPLPP_00940,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+3976.272118,6.479233666,0.106023341,61.11138905,0,0,AENJPLPP_02293,AENJPLPP_02293,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+7.266693794,6.402418217,1.304230021,4.908963997,9.16E-07,1.47E-06,AENJPLPP_02189,AENJPLPP_02189,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+6053.416457,6.38330031,0.09295134,68.67356978,0,0,AENJPLPP_02295,AENJPLPP_02295,CDS,dppC,Dipeptide transport system permease protein DppC,,COG1173,dppC,"dppC
+(AENJPLPP_02295)",Up in serum
+234.9666574,6.293049436,0.350669415,17.94581782,5.17E-72,2.37E-71,AENJPLPP_00312,AENJPLPP_00312,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+142.7332742,6.117837841,0.424341027,14.41726689,4.03E-47,1.39E-46,AENJPLPP_00932,AENJPLPP_00932,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+119.6435566,6.105961868,0.46025456,13.26648859,3.62E-40,1.13E-39,AENJPLPP_00936,AENJPLPP_00936,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+197.4551511,6.039480627,0.352350875,17.14052969,7.40E-66,3.15E-65,AENJPLPP_00933,AENJPLPP_00933,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+185.9115074,6.029625274,0.361470689,16.68081386,1.81E-62,7.42E-62,AENJPLPP_00935,AENJPLPP_00935,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+103.3277849,6.027088222,0.486844715,12.37989863,3.36E-35,9.71E-35,AENJPLPP_02184,AENJPLPP_02184,CDS,clpP_1,ATP-dependent Clp protease proteolytic subunit,3.4.21.92,,clpP_1,"clpP_1
+(AENJPLPP_02184)",Up in serum
+12243.134,6.019408484,0.072468959,83.06188736,0,0,AENJPLPP_02296,AENJPLPP_02296,CDS,oppD_2,Oligopeptide transport ATP-binding protein OppD,,COG0444,oppD_2,"oppD_2
+(AENJPLPP_02296)",Up in serum
+232.1947058,5.995098938,0.327072996,18.32954418,4.81E-75,2.28E-74,AENJPLPP_01146,AENJPLPP_01146,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+9991.317501,5.955887755,0.084797774,70.23636903,0,0,AENJPLPP_01540,AENJPLPP_01540,CDS,yclQ,Petrobactin-binding protein YclQ,,COG4607,yclQ,"yclQ
+(AENJPLPP_01540)",Up in serum
+2536.849639,5.946453678,0.109546228,54.28259625,0,0,AENJPLPP_01537,AENJPLPP_01537,CDS,yclN,Petrobactin import system permease protein YclN,,COG4606,yclN,"yclN
+(AENJPLPP_01537)",Up in serum
+486.9955509,5.94390937,0.221665365,26.81478617,2.17E-158,1.77E-157,AENJPLPP_00939,AENJPLPP_00939,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+15532.97383,5.926640146,0.071515215,82.87243729,0,0,AENJPLPP_01558,AENJPLPP_01558,CDS,bioY2,Biotin transporter BioY2,,COG1268,bioY2,"bioY2
+(AENJPLPP_01558)",Up in serum
+10585.29953,5.882344441,0.077206646,76.18961258,0,0,AENJPLPP_02297,AENJPLPP_02297,CDS,oppF_2,Oligopeptide transport ATP-binding protein OppF,,COG4608,oppF_2,"oppF_2
+(AENJPLPP_02297)",Up in serum
+4874.686026,5.82969886,0.09565,60.94823675,0,0,AENJPLPP_01538,AENJPLPP_01538,CDS,yclO,Petrobactin import system permease protein YclO,,COG4605,yclO,"yclO
+(AENJPLPP_01538)",Up in serum
+32968.78871,5.829091518,0.083861823,69.50828527,0,0,AENJPLPP_00580,AENJPLPP_00580,CDS,ydhF,Oxidoreductase YdhF,1.-.-.-,COG4989,ydhF,"ydhF
+(AENJPLPP_00580)",Up in serum
+14739.162,5.80053818,0.071484955,81.14348215,0,0,AENJPLPP_02298,AENJPLPP_02298,CDS,NA,IS200/IS605 family transposase ISEfa4,,,IS200/IS605 family transposase ISEfa4,IS200/IS605 family transposase ISEfa4,Up in serum
+148.3250993,5.784359595,0.376762279,15.35280976,3.39E-53,1.26E-52,AENJPLPP_00937,AENJPLPP_00937,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+786.122342,5.753889668,0.178975249,32.14908042,9.10E-227,1.09E-225,AENJPLPP_00981,AENJPLPP_00981,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+126.1720426,5.728803557,0.399995316,14.32217659,1.59E-46,5.43E-46,AENJPLPP_00934,AENJPLPP_00934,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+9986.954173,5.665915654,0.087081099,65.06481589,0,0,AENJPLPP_02307,AENJPLPP_02307,CDS,niaX,Niacin transporter NiaX,,,niaX,"niaX
+(AENJPLPP_02307)",Up in serum
+3140.341756,5.649320281,0.102795462,54.95690355,0,0,AENJPLPP_00593,AENJPLPP_00593,CDS,purE,N5-carboxyaminoimidazole ribonucleotide mutase,5.4.99.18,COG0041,purE,"purE
+(AENJPLPP_00593)",Up in serum
+11692.19689,5.624390117,0.07539362,74.6003462,0,0,AENJPLPP_00392,AENJPLPP_00392,CDS,ysnF,Stress response protein YsnF,,,ysnF,"ysnF
+(AENJPLPP_00392)",Up in serum
+2880.527036,5.554827521,0.192821653,28.80811071,1.70E-182,1.60E-181,AENJPLPP_02140,AENJPLPP_02140,CDS,licA_2,Lichenan-specific phosphotransferase enzyme IIA component,,COG1447,licA_2,"licA_2
+(AENJPLPP_02140)",Up in serum
+59.22520497,5.543885534,0.549747297,10.08442528,6.47E-24,1.58E-23,AENJPLPP_02187,AENJPLPP_02187,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+3077.51562,5.538735917,0.101566729,54.53297514,0,0,AENJPLPP_01539,AENJPLPP_01539,CDS,yclP,Petrobactin import ATP-binding protein YclP,7.2.2.-,COG4604,yclP,"yclP
+(AENJPLPP_01539)",Up in serum
+102.9503491,5.531629465,0.422254914,13.10021336,3.28E-39,1.01E-38,AENJPLPP_02142,AENJPLPP_02142,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1667.986992,5.473394175,0.129695267,42.20195772,0,0,AENJPLPP_02139,AENJPLPP_02139,CDS,ptcB_1,PTS system galactose-specific EIIB component,2.7.1.204,COG1440,ptcB_1,"ptcB_1
+(AENJPLPP_02139)",Up in serum
+3814.192131,5.466996292,0.203150983,26.91100088,1.63E-159,1.34E-158,AENJPLPP_02141,AENJPLPP_02141,CDS,celB,PTS system cellobiose-specific EIIC component,,COG1455,celB,"celB
+(AENJPLPP_02141)",Up in serum
+1341.662903,5.462605381,0.126178856,43.29255751,0,0,AENJPLPP_00979,AENJPLPP_00979,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+20.99103165,5.455806814,0.897520739,6.078752923,1.21E-09,2.14E-09,AENJPLPP_02188,AENJPLPP_02188,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+27.95943771,5.452554295,0.781137864,6.980271403,2.95E-12,5.65E-12,AENJPLPP_02143,AENJPLPP_02143,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+19611.73008,5.371267098,0.067869329,79.14130273,0,0,AENJPLPP_02928,AENJPLPP_02928,CDS,ohrB_2,Organic hydroperoxide resistance protein OhrB,,COG1764,ohrB_2,"ohrB_2
+(AENJPLPP_02928)",Up in serum
+32.36361065,5.342620795,0.697680697,7.657687562,1.89E-14,3.83E-14,AENJPLPP_02192,AENJPLPP_02192,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+700.3872865,5.23775032,0.291296959,17.98079299,2.76E-72,1.26E-71,AENJPLPP_00973,AENJPLPP_00973,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+3263.652615,5.195724582,0.085980073,60.42940414,0,0,AENJPLPP_00977,AENJPLPP_00977,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+209.9899476,5.190875769,0.267987136,19.3698692,1.39E-83,7.01E-83,AENJPLPP_02960,AENJPLPP_02960,CDS,manX_6,PTS system mannose-specific EIIAB component,2.7.1.191,COG2893,manX_6,"manX_6
+(AENJPLPP_02960)",Up in serum
+1724.052217,5.117456758,0.104710177,48.87258225,0,0,AENJPLPP_00662,AENJPLPP_00662,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+53927.15437,5.09290473,0.062739663,81.17519996,0,0,AENJPLPP_01633,AENJPLPP_01633,CDS,adhE,Aldehyde-alcohol dehydrogenase,,COG1012,adhE,"adhE
+(AENJPLPP_01633)",Up in serum
+784.2277852,5.056380191,0.144001237,35.11344961,4.20E-270,5.95E-269,AENJPLPP_00190,AENJPLPP_00190,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2605.206801,5.037328128,0.099989875,50.37838204,0,0,AENJPLPP_02031,AENJPLPP_02031,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1250.733147,5.013444832,0.120258257,41.68898642,0,0,AENJPLPP_00308,AENJPLPP_00308,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+779.0323054,4.997472726,0.139731462,35.76483522,3.89E-280,5.77E-279,AENJPLPP_01515,AENJPLPP_01515,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+276.5494184,4.996948005,0.22285069,22.42285186,2.36E-111,1.47E-110,AENJPLPP_00975,AENJPLPP_00975,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+20.26578057,4.975321118,0.795667636,6.253014317,4.03E-10,7.20E-10,AENJPLPP_00971,AENJPLPP_00971,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1852.399054,4.961241338,0.104286553,47.57316444,0,0,AENJPLPP_01904,AENJPLPP_01904,CDS,vioD,Capreomycidine synthase,4.2.1.145,,vioD,"vioD
+(AENJPLPP_01904)",Up in serum
+49.83791897,4.957256661,0.509692362,9.725977922,2.34E-22,5.57E-22,AENJPLPP_00938,AENJPLPP_00938,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+534.7076169,4.944710751,0.170641561,28.97717724,1.28E-184,1.21E-183,AENJPLPP_00976,AENJPLPP_00976,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+44.5322411,4.944462759,0.533254152,9.272244276,1.82E-20,4.18E-20,AENJPLPP_00945,AENJPLPP_00945,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+4292.28341,4.941515903,0.080090138,61.69943059,0,0,AENJPLPP_00663,AENJPLPP_00663,CDS,folT_1,Folate transporter FolT,,,folT_1,"folT_1
+(AENJPLPP_00663)",Up in serum
+58.14499961,4.914940065,0.468378499,10.49352196,9.25E-26,2.34E-25,AENJPLPP_00949,AENJPLPP_00949,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1008.648434,4.911560989,0.131261685,37.4180858,1.99E-306,3.37E-305,AENJPLPP_00974,AENJPLPP_00974,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+14.36356824,4.899051161,0.925590556,5.292892336,1.20E-07,1.99E-07,AENJPLPP_00931,AENJPLPP_00931,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+42.07316473,4.861362339,0.536512164,9.061047757,1.29E-19,2.91E-19,AENJPLPP_00965,AENJPLPP_00965,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+332.5812988,4.842873075,0.19828203,24.42416531,9.47E-132,6.65E-131,AENJPLPP_00970,AENJPLPP_00970,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1457.66275,4.834946019,0.106843814,45.25246571,0,0,AENJPLPP_01903,AENJPLPP_01903,CDS,arcD1_1,Arginine/ornithine antiporter ArcD1,,COG0531,arcD1_1,"arcD1_1
+(AENJPLPP_01903)",Up in serum
+2355.344031,4.802560088,0.104424263,45.99084483,0,0,AENJPLPP_00410,AENJPLPP_00410,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+480.1583531,4.758647065,0.164033464,29.0102211,4.89E-185,4.66E-184,AENJPLPP_00943,AENJPLPP_00943,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+921.9431027,4.745706829,0.126090206,37.6373945,5.26011213963301e-310,0.00E+00,AENJPLPP_02032,AENJPLPP_02032,CDS,NA,putative phosphotransferase enzyme IIB component,2.7.1.-,,putative phosphotransferase enzyme IIB component,putative phosphotransferase enzyme IIB component,Up in serum
+5056.990558,4.666399227,0.073400318,63.57464603,0,0,AENJPLPP_00268,AENJPLPP_00268,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+82.22876065,4.665968275,0.36628005,12.73879992,3.60E-37,1.07E-36,AENJPLPP_02190,AENJPLPP_02190,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+193.4972608,4.635595849,0.241258277,19.21424586,2.81E-82,1.41E-81,AENJPLPP_02186,AENJPLPP_02186,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2814.371314,4.599182558,0.083900123,54.81735207,0,0,AENJPLPP_00966,AENJPLPP_00966,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+242.4957673,4.594688812,0.2159158,21.28000272,1.74E-100,1.00E-99,AENJPLPP_00928,AENJPLPP_00928,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+954.889171,4.539176272,0.117034465,38.78495357,0,0,AENJPLPP_00930,AENJPLPP_00930,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1378.193145,4.531742842,0.101707933,44.55643452,0,0,AENJPLPP_00967,AENJPLPP_00967,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+5996.25561,4.49325004,0.076459965,58.76604897,0,0,AENJPLPP_02927,AENJPLPP_02927,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1775.274528,4.451423461,0.109790218,40.54480948,0,0,AENJPLPP_02751,AENJPLPP_02751,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+876.4302756,4.437977729,0.123089806,36.05479518,1.16E-284,1.77E-283,AENJPLPP_00968,AENJPLPP_00968,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+245.7445815,4.387519254,0.203373132,21.57374095,3.17E-103,1.88E-102,AENJPLPP_00947,AENJPLPP_00947,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+537.491949,4.372442696,0.146597019,29.82627298,1.78E-195,1.82E-194,AENJPLPP_00946,AENJPLPP_00946,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+946.7957298,4.368594111,0.114208064,38.25118776,3.97426405514699e-320,7.21227148486135e-319,AENJPLPP_00309,AENJPLPP_00309,CDS,yidA_1,Sugar phosphatase YidA,3.1.3.23,COG0561,yidA_1,"yidA_1
+(AENJPLPP_00309)",Up in serum
+22575.23983,4.361811299,0.075154405,58.03799918,0,0,AENJPLPP_00847,AENJPLPP_00847,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1533.020698,4.342822821,0.103055989,42.14042174,0,0,AENJPLPP_01863,AENJPLPP_01863,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1150.218244,4.320639245,0.10512414,41.10035275,0,0,AENJPLPP_02155,AENJPLPP_02155,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+14299.661,4.310030027,0.07103626,60.67366198,0,0,AENJPLPP_00808,AENJPLPP_00808,CDS,pbuO,Guanine/hypoxanthine permease PbuO,,COG2252,pbuO,"pbuO
+(AENJPLPP_00808)",Up in serum
+15721.45366,4.287894005,0.075680292,56.65800019,0,0,AENJPLPP_00316,AENJPLPP_00316,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+181.5038474,4.279989649,0.22841038,18.73815736,2.42E-78,1.17E-77,AENJPLPP_02191,AENJPLPP_02191,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1995.226537,4.216271202,0.095702007,44.0562464,0,0,AENJPLPP_01862,AENJPLPP_01862,CDS,rclA,putative pyridine nucleotide-disulfide oxidoreductase RclA,,COG1249,rclA,"rclA
+(AENJPLPP_01862)",Up in serum
+76.1385806,4.215164642,0.344075696,12.25068986,1.67E-34,4.73E-34,AENJPLPP_00972,AENJPLPP_00972,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+24.09646536,4.198114264,0.596521894,7.037653279,1.96E-12,3.77E-12,AENJPLPP_00944,AENJPLPP_00944,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+41.72727925,4.184954073,0.452556625,9.247360091,2.30E-20,5.27E-20,AENJPLPP_02178,AENJPLPP_02178,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+563.6370815,4.158735151,0.135679975,30.65106064,2.56E-206,2.74E-205,AENJPLPP_02961,AENJPLPP_02961,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1479.450673,4.141278421,0.09650299,42.91347245,0,0,AENJPLPP_01981,AENJPLPP_01981,CDS,yvbW,putative amino acid permease YvbW,,COG1113,yvbW,"yvbW
+(AENJPLPP_01981)",Up in serum
+1652.850296,4.076002057,0.094477801,43.14243148,0,0,AENJPLPP_02926,AENJPLPP_02926,CDS,hsdS,Type-1 restriction enzyme EcoKI specificity protein,,COG0732,hsdS,"hsdS
+(AENJPLPP_02926)",Up in serum
+127.6152165,4.040073717,0.253815736,15.91734923,4.80E-57,1.89E-56,AENJPLPP_00948,AENJPLPP_00948,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+510.027252,4.037970896,0.147955521,27.29178924,5.31E-164,4.49E-163,AENJPLPP_02959,AENJPLPP_02959,CDS,sorA_4,PTS system sorbose-specific EIIC component,,COG3715,sorA_4,"sorA_4
+(AENJPLPP_02959)",Up in serum
+632.6660086,4.001605138,0.127073759,31.49041288,1.18E-217,1.33E-216,AENJPLPP_00640,AENJPLPP_00640,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+509.0359337,3.994274747,0.161851088,24.67870193,1.81E-134,1.30E-133,AENJPLPP_01145,AENJPLPP_01145,CDS,licR_2,putative licABCH operon regulator,,COG1762,licR_2,"licR_2
+(AENJPLPP_01145)",Up in serum
+508.4803086,3.984093691,0.134776404,29.56076558,4.78E-192,4.73E-191,AENJPLPP_00610,AENJPLPP_00610,CDS,dcuS_1,Sensor histidine kinase DcuS,2.7.13.3,COG3290,dcuS_1,"dcuS_1
+(AENJPLPP_00610)",Up in serum
+635.8105028,3.96855631,0.129833702,30.56645721,3.42E-205,3.64E-204,AENJPLPP_01872,AENJPLPP_01872,CDS,ydbD,putative manganese catalase,1.11.1.6,COG3546,ydbD,"ydbD
+(AENJPLPP_01872)",Up in serum
+585.9239166,3.95658811,0.147975748,26.73808489,1.70E-157,1.38E-156,AENJPLPP_00358,AENJPLPP_00358,CDS,mdxE,Maltodextrin-binding protein MdxE,,COG2182,mdxE,"mdxE
+(AENJPLPP_00358)",Up in serum
+365.8709795,3.945169274,0.158567867,24.88000463,1.22E-136,8.96E-136,AENJPLPP_00641,AENJPLPP_00641,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+114.2613538,3.937391895,0.268495169,14.66466571,1.09E-48,3.83E-48,AENJPLPP_02156,AENJPLPP_02156,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+134.2903926,3.929843797,0.25141364,15.63098882,4.48E-55,1.71E-54,AENJPLPP_00191,AENJPLPP_00191,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+218.419791,3.919458894,0.192460322,20.36502304,3.42E-92,1.85E-91,AENJPLPP_00961,AENJPLPP_00961,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+634.9405935,3.909990562,0.12455006,31.3929239,2.53E-216,2.84E-215,AENJPLPP_02193,AENJPLPP_02193,CDS,smc_3,Chromosome partition protein Smc,,,smc_3,"smc_3
+(AENJPLPP_02193)",Up in serum
+34.90315897,3.90900251,0.463642255,8.431074753,3.43E-17,7.36E-17,AENJPLPP_02144,AENJPLPP_02144,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1824.992765,3.899040816,0.089506206,43.56168144,0,0,AENJPLPP_00980,AENJPLPP_00980,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+94024.90155,3.896064712,0.066620221,58.48171443,0,0,AENJPLPP_02310,AENJPLPP_02310,CDS,folT_2,Folate transporter FolT,,,folT_2,"folT_2
+(AENJPLPP_02310)",Up in serum
+125.9355668,3.89398336,0.248348751,15.67949643,2.09E-55,8.02E-55,AENJPLPP_00942,AENJPLPP_00942,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+17.34740761,3.890383467,0.667887057,5.824912205,5.71E-09,9.85E-09,AENJPLPP_02315,AENJPLPP_02315,CDS,manX_4,PTS system mannose-specific EIIAB component,2.7.1.191,,manX_4,"manX_4
+(AENJPLPP_02315)",Up in serum
+630.9626615,3.843991316,0.12814146,29.99802965,1.04E-197,1.08E-196,AENJPLPP_01661,AENJPLPP_01661,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+3942.438637,3.832551377,0.067423242,56.84317881,0,0,AENJPLPP_00096,AENJPLPP_00096,CDS,yfiY,putative siderophore-binding lipoprotein YfiY,,COG0614,yfiY,"yfiY
+(AENJPLPP_00096)",Up in serum
+320.4056959,3.820262792,0.173133433,22.06542501,6.79E-108,4.16E-107,AENJPLPP_01801,AENJPLPP_01801,CDS,rbsD,D-ribose pyranase,5.4.99.62,COG1869,rbsD,"rbsD
+(AENJPLPP_01801)",Up in serum
+945.4859872,3.813858598,0.113354452,33.64542399,3.64E-248,4.81E-247,AENJPLPP_02033,AENJPLPP_02033,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+69.80658904,3.798847246,0.32446045,11.70819816,1.16E-31,3.15E-31,AENJPLPP_02158,AENJPLPP_02158,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+151.8230839,3.759703287,0.225506724,16.67224472,2.09E-62,8.55E-62,AENJPLPP_00963,AENJPLPP_00963,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+28643.07656,3.743629172,0.059358244,63.068395,0,0,AENJPLPP_00591,AENJPLPP_00591,CDS,purB,Adenylosuccinate lyase,4.3.2.2,COG0015,purB,"purB
+(AENJPLPP_00591)",Up in serum
+383.9378747,3.693109294,0.145947202,25.30441989,2.86E-141,2.14E-140,AENJPLPP_00941,AENJPLPP_00941,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+12743.99379,3.670865481,0.065367626,56.15724009,0,0,AENJPLPP_00449,AENJPLPP_00449,CDS,fhs1,Formate--tetrahydrofolate ligase 1,6.3.4.3,,fhs1,"fhs1
+(AENJPLPP_00449)",Up in serum
+1036.904924,3.666997929,0.097692598,37.53608789,2.38E-308,4.05E-307,AENJPLPP_01820,AENJPLPP_01820,CDS,bsaA,Glutathione peroxidase BsaA,,,bsaA,"bsaA
+(AENJPLPP_01820)",Up in serum
+273.2324347,3.657167437,0.166704845,21.93797927,1.13E-106,6.90E-106,AENJPLPP_00611,AENJPLPP_00611,CDS,dcuS_2,Sensor histidine kinase DcuS,2.7.13.3,COG3290,dcuS_2,"dcuS_2
+(AENJPLPP_00611)",Up in serum
+203.7899863,3.624436926,0.189920015,19.08401773,3.43E-81,1.70E-80,AENJPLPP_00929,AENJPLPP_00929,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+411.4136716,3.618993347,0.137412292,26.33675115,7.28E-153,5.81E-152,AENJPLPP_00533,AENJPLPP_00533,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+3102.261477,3.594056743,0.088372371,40.66946146,0,0,AENJPLPP_00315,AENJPLPP_00315,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1592.229129,3.58455377,0.087837898,40.8087379,0,0,AENJPLPP_00317,AENJPLPP_00317,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+601.285789,3.557562037,0.118662313,29.9805553,1.76E-197,1.82E-196,AENJPLPP_01819,AENJPLPP_01819,CDS,spxA_5,Regulatory protein Spx,,COG1393,spxA_5,"spxA_5
+(AENJPLPP_01819)",Up in serum
+1467.260206,3.533755632,0.089870206,39.32065805,0,0,AENJPLPP_01818,AENJPLPP_01818,CDS,spxA_4,Regulatory protein Spx,,COG1393,spxA_4,"spxA_4
+(AENJPLPP_01818)",Up in serum
+160.6660702,3.532090153,0.207166182,17.04954987,3.52E-65,1.49E-64,AENJPLPP_00959,AENJPLPP_00959,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+73.92868856,3.526412129,0.299623701,11.76946989,5.61E-32,1.53E-31,AENJPLPP_00958,AENJPLPP_00958,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+3768.32321,3.524947628,0.075248477,46.84410589,0,0,AENJPLPP_01825,AENJPLPP_01825,CDS,lysA,Diaminopimelate decarboxylase,4.1.1.20,COG0019,lysA,"lysA
+(AENJPLPP_01825)",Up in serum
+2041.069813,3.521206897,0.081941931,42.97197844,0,0,AENJPLPP_00486,AENJPLPP_00486,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+982.7974464,3.51775326,0.10983317,32.02815027,4.42E-225,5.26E-224,AENJPLPP_01362,AENJPLPP_01362,CDS,msrA_2,Peptide methionine sulfoxide reductase MsrA,1.8.4.11,COG0225,msrA_2,"msrA_2
+(AENJPLPP_01362)",Up in serum
+55.50408638,3.503196661,0.34322017,10.20684961,1.85E-24,4.59E-24,AENJPLPP_00960,AENJPLPP_00960,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+9790.576291,3.482300073,0.058775135,59.24784516,0,0,AENJPLPP_00592,AENJPLPP_00592,CDS,purK,N5-carboxyaminoimidazole ribonucleotide synthase,6.3.4.18,,purK,"purK
+(AENJPLPP_00592)",Up in serum
+1079.114157,3.477979157,0.093180323,37.32525341,6.39E-305,1.07E-303,AENJPLPP_00532,AENJPLPP_00532,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2540.522716,3.471115922,0.075232364,46.13859936,0,0,AENJPLPP_02290,AENJPLPP_02290,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+176.6832733,3.453810137,0.195854308,17.63458857,1.34E-69,5.96E-69,AENJPLPP_02183,AENJPLPP_02183,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+965.7229962,3.385127927,0.107388404,31.52228542,4.30E-218,4.93E-217,AENJPLPP_00151,AENJPLPP_00151,CDS,ydeA,putative protease YdeA,3.2.-.-,COG0693,ydeA,"ydeA
+(AENJPLPP_00151)",Up in serum
+2840.528127,3.381428517,0.196424403,17.21491047,2.05E-66,8.79E-66,AENJPLPP_00323,AENJPLPP_00323,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+246.7936091,3.369005218,0.165285846,20.38290205,2.37E-92,1.29E-91,AENJPLPP_02185,AENJPLPP_02185,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+4089.3129,3.364260922,0.090936058,36.99589571,1.33E-299,2.16E-298,AENJPLPP_00022,AENJPLPP_00022,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+387.2334776,3.359784543,0.136008127,24.70282198,9.97E-135,7.17E-134,AENJPLPP_00951,AENJPLPP_00951,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+65.61677339,3.334419031,0.302018797,11.04043544,2.44E-28,6.37E-28,AENJPLPP_00964,AENJPLPP_00964,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+200.4279046,3.324848595,0.190065557,17.49316732,1.62E-68,7.12E-68,AENJPLPP_02157,AENJPLPP_02157,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+145.4540621,3.30385517,0.205543074,16.07378498,3.90E-58,1.54E-57,AENJPLPP_00174,AENJPLPP_00174,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+131.9371068,3.244063164,0.214680309,15.11113512,1.37E-51,4.98E-51,AENJPLPP_00957,AENJPLPP_00957,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+212.9486888,3.239572845,0.176545228,18.34981821,3.31E-75,1.57E-74,AENJPLPP_02958,AENJPLPP_02958,CDS,manZ_8,PTS system mannose-specific EIID component,,COG3716,manZ_8,"manZ_8
+(AENJPLPP_02958)",Up in serum
+2787.931819,3.218604169,0.075346644,42.71728622,0,0,AENJPLPP_01826,AENJPLPP_01826,CDS,dapF,Diaminopimelate epimerase,5.1.1.7,COG0253,dapF,"dapF
+(AENJPLPP_01826)",Up in serum
+129.2299814,3.205093782,0.221852757,14.44694142,2.62E-47,9.05E-47,AENJPLPP_00173,AENJPLPP_00173,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+98.71269076,3.187334689,0.255641123,12.46800455,1.12E-35,3.25E-35,AENJPLPP_02164,AENJPLPP_02164,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+7556.615968,3.175751415,0.076335962,41.60229763,0,0,AENJPLPP_00322,AENJPLPP_00322,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+5740.624625,3.175522441,0.083837262,37.87722021,6.10419917867275e-314,1.08685458332323e-312,AENJPLPP_01861,AENJPLPP_01861,CDS,ohrB_1,Organic hydroperoxide resistance protein OhrB,,COG1764,ohrB_1,"ohrB_1
+(AENJPLPP_01861)",Up in serum
+638.8820174,3.17286379,0.106860239,29.69171513,9.82E-194,9.79E-193,AENJPLPP_02160,AENJPLPP_02160,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+204.5303201,3.16652851,0.177759375,17.81356682,5.55E-71,2.51E-70,AENJPLPP_02161,AENJPLPP_02161,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+6348.226825,3.153215285,0.070963529,44.43430789,0,0,AENJPLPP_00324,AENJPLPP_00324,CDS,NA,Stress response regulator gls24,,,Stress response regulator gls24,Stress response regulator gls24,Up in serum
+2701.582193,3.143331022,0.073155519,42.96779078,0,0,AENJPLPP_00145,AENJPLPP_00145,CDS,glcU_1,Glucose uptake protein GlcU,,COG4975,glcU_1,"glcU_1
+(AENJPLPP_00145)",Up in serum
+195.3533012,3.139577818,0.181992359,17.25115187,1.10E-66,4.74E-66,AENJPLPP_02828,AENJPLPP_02828,CDS,NA,IS6 family transposase IS1216V,,,IS6 family transposase IS1216V,IS6 family transposase IS1216V,Up in serum
+65260.56582,3.101871272,0.053928507,57.51821197,0,0,AENJPLPP_00119,AENJPLPP_00119,CDS,argS,Arginine--tRNA ligase,6.1.1.19,COG0018,argS,"argS
+(AENJPLPP_00119)",Up in serum
+709.8668111,3.100597243,0.110423204,28.07921819,1.76E-173,1.55E-172,AENJPLPP_00325,AENJPLPP_00325,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+9011.758887,3.094670426,0.061267377,50.51090144,0,0,AENJPLPP_02941,AENJPLPP_02941,CDS,bglF_5,PTS system beta-glucoside-specific EIIBCA component,,COG1263,bglF_5,"bglF_5
+(AENJPLPP_02941)",Up in serum
+534.3294093,3.086018331,0.119769862,25.76623435,2.12E-146,1.63E-145,AENJPLPP_00747,AENJPLPP_00747,CDS,manP_1,PTS system mannose-specific EIIBCA component,,COG1299,manP_1,"manP_1
+(AENJPLPP_00747)",Up in serum
+22.08152214,3.078309442,0.517565502,5.947671217,2.72E-09,4.75E-09,AENJPLPP_00962,AENJPLPP_00962,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+359.5396361,3.073251283,0.138263991,22.22741629,1.87E-109,1.15E-108,AENJPLPP_00643,AENJPLPP_00643,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+4875.830278,3.060344334,0.061290997,49.93138416,0,0,AENJPLPP_00427,AENJPLPP_00427,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1597.657748,3.045831093,0.089429932,34.05829604,3.06E-254,4.16E-253,AENJPLPP_02610,AENJPLPP_02610,CDS,acyP,Acylphosphatase,3.6.1.7,COG1254,acyP,"acyP
+(AENJPLPP_02610)",Up in serum
+1905.458345,3.016683569,0.090207515,33.4415992,3.41E-245,4.49E-244,AENJPLPP_00748,AENJPLPP_00748,CDS,manP_2,PTS system mannose-specific EIIBCA component,,COG1299,manP_2,"manP_2
+(AENJPLPP_00748)",Up in serum
+2926.682936,3.003779151,0.073334623,40.95990444,0,0,AENJPLPP_03133,AENJPLPP_03133,CDS,yoeB,Toxin YoeB,3.1.-.-,COG4115,yoeB,"yoeB
+(AENJPLPP_03133)",Up in serum
+310.3746594,3.002088897,0.142840019,21.01714162,4.57E-98,2.60E-97,AENJPLPP_01514,AENJPLPP_01514,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+287.2401022,3.001770819,0.145833858,20.58349725,3.86E-94,2.12E-93,AENJPLPP_01009,AENJPLPP_01009,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1182.395201,2.993365363,0.088308243,33.89678312,7.43E-252,9.97E-251,AENJPLPP_00590,AENJPLPP_00590,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2965.671797,2.986144419,0.072832694,41.00005455,0,0,AENJPLPP_00189,AENJPLPP_00189,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+45.31234283,2.970409229,0.338135579,8.784669269,1.57E-18,3.47E-18,AENJPLPP_02195,AENJPLPP_02195,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+4832.160251,2.965489058,0.095582649,31.02539095,2.45E-211,2.70E-210,AENJPLPP_00024,AENJPLPP_00024,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+207.9780172,2.948551102,0.167952523,17.55586075,5.36E-69,2.38E-68,AENJPLPP_00612,AENJPLPP_00612,CDS,dcuR,Transcriptional regulatory protein DcuR,,COG4565,dcuR,"dcuR
+(AENJPLPP_00612)",Up in serum
+21468.0809,2.916794511,0.072425102,40.27325364,0,0,AENJPLPP_00712,AENJPLPP_00712,CDS,tuf_1,Elongation factor Tu,,,tuf_1,"tuf_1
+(AENJPLPP_00712)",Up in serum
+321.3072571,2.903183277,0.1372207,21.15703597,2.38E-99,1.36E-98,AENJPLPP_02163,AENJPLPP_02163,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1108.57902,2.892613754,0.097238755,29.74754008,1.87E-194,1.89E-193,AENJPLPP_00039,AENJPLPP_00039,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+785.1486515,2.887070825,0.1010125,28.58132237,1.15E-179,1.04E-178,AENJPLPP_01282,AENJPLPP_01282,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+9868.184785,2.87920149,0.081101003,35.50142878,4.67E-276,6.78E-275,AENJPLPP_02328,AENJPLPP_02328,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+73.41318514,2.86974987,0.282553752,10.15647412,3.10E-24,7.65E-24,AENJPLPP_00411,AENJPLPP_00411,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2549.688929,2.868701912,0.074146728,38.68952779,0,0,AENJPLPP_01091,AENJPLPP_01091,CDS,adeC,Adenine deaminase,3.5.4.2,,adeC,"adeC
+(AENJPLPP_01091)",Up in serum
+16920.96891,2.863564608,0.05469604,52.35414821,0,0,AENJPLPP_00494,AENJPLPP_00494,CDS,gap_1,Glyceraldehyde-3-phosphate dehydrogenase,1.2.1.12,,gap_1,"gap_1
+(AENJPLPP_00494)",Up in serum
+7.645773477,2.855185546,0.80149306,3.562333459,0.000367573,0.000521081,AENJPLPP_00289,AENJPLPP_00289,CDS,fldH,Phenyllactate dehydrogenase,1.1.1.-,,fldH,"fldH
+(AENJPLPP_00289)",Up in serum
+94.28666877,2.848836179,0.247574436,11.50698848,1.22E-30,3.26E-30,AENJPLPP_01800,AENJPLPP_01800,CDS,bglF_1,PTS system beta-glucoside-specific EIIBCA component,,COG1263,bglF_1,"bglF_1
+(AENJPLPP_01800)",Up in serum
+1213.659474,2.848344971,0.102920017,27.67532538,1.38E-168,1.19E-167,AENJPLPP_00093,AENJPLPP_00093,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+105.5195539,2.847330451,0.224611919,12.67666675,7.96E-37,2.36E-36,AENJPLPP_02169,AENJPLPP_02169,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+942.8653729,2.841735353,0.103639943,27.4193063,1.61E-165,1.37E-164,AENJPLPP_00534,AENJPLPP_00534,CDS,NA,Putative universal stress protein,,,Putative universal stress protein,Putative universal stress protein,Up in serum
+490.3067066,2.837739583,0.118267077,23.99433257,3.19E-127,2.21E-126,AENJPLPP_02358,AENJPLPP_02358,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+18.65621331,2.822842791,0.534030171,5.285923798,1.25E-07,2.07E-07,AENJPLPP_02899,AENJPLPP_02899,CDS,NA,IS1182 family transposase ISEfa7,,,IS1182 family transposase ISEfa7,IS1182 family transposase ISEfa7,Up in serum
+24.89370571,2.8052198,0.441930614,6.347647603,2.19E-10,3.94E-10,AENJPLPP_02166,AENJPLPP_02166,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2030.395553,2.785743684,0.082762714,33.65940458,2.27E-248,3.02E-247,AENJPLPP_01827,AENJPLPP_01827,CDS,dapA,4-hydroxy-tetrahydrodipicolinate synthase,4.3.3.7,COG0329,dapA,"dapA
+(AENJPLPP_01827)",Up in serum
+126.5804871,2.770684094,0.202854915,13.65845187,1.80E-42,5.83E-42,AENJPLPP_03017,AENJPLPP_03017,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1651.86768,2.749953631,0.084272639,32.63163054,1.46E-233,1.78E-232,AENJPLPP_02057,AENJPLPP_02057,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+252.9185075,2.740730627,0.147621393,18.56594482,6.06E-77,2.91E-76,AENJPLPP_00146,AENJPLPP_00146,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+20314.66983,2.726483373,0.055371987,49.23939965,0,0,AENJPLPP_03060,AENJPLPP_03060,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+6760.141574,2.7211781,0.07619379,35.71390934,2.40E-279,3.55E-278,AENJPLPP_02618,AENJPLPP_02618,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1506.644076,2.721037532,0.094004366,28.9458634,3.16E-184,3.00E-183,AENJPLPP_03115,AENJPLPP_03115,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1139.179598,2.711310392,0.091062896,29.77404106,8.47E-195,8.60E-194,AENJPLPP_01008,AENJPLPP_01008,CDS,feoB,Fe(2+) transporter FeoB,,COG0370,feoB,"feoB
+(AENJPLPP_01008)",Up in serum
+89313.83239,2.698136152,0.06291974,42.88218839,0,0,AENJPLPP_03059,AENJPLPP_03059,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+6934.272196,2.682389423,0.062004726,43.26104782,0,0,AENJPLPP_02363,AENJPLPP_02363,CDS,pepC,Aminopeptidase C,3.4.22.40,COG3579,pepC,"pepC
+(AENJPLPP_02363)",Up in serum
+106.2582243,2.667095997,0.217197702,12.27957741,1.17E-34,3.33E-34,AENJPLPP_02167,AENJPLPP_02167,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1511.712301,2.646178893,0.083963689,31.51575308,5.29E-218,6.01E-217,AENJPLPP_01828,AENJPLPP_01828,CDS,dapB,4-hydroxy-tetrahydrodipicolinate reductase,1.17.1.8,COG0289,dapB,"dapB
+(AENJPLPP_01828)",Up in serum
+535.3147525,2.642757111,0.106781824,24.74912872,3.17E-135,2.29E-134,AENJPLPP_02769,AENJPLPP_02769,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2953.136236,2.631025078,0.075317368,34.93251476,2.39E-267,3.36E-266,AENJPLPP_00525,AENJPLPP_00525,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+41.25479779,2.630276899,0.341124774,7.710600639,1.25E-14,2.54E-14,AENJPLPP_02168,AENJPLPP_02168,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+688.8600488,2.622459142,0.099848297,26.26443523,4.89E-152,3.88E-151,AENJPLPP_02159,AENJPLPP_02159,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+4358.167617,2.614184123,0.074384114,35.14438748,1.42E-270,2.01E-269,AENJPLPP_02992,AENJPLPP_02992,CDS,pemK,Endoribonuclease PemK,3.1.-.-,,pemK,"pemK
+(AENJPLPP_02992)",Up in serum
+3483.831419,2.611726618,0.066776124,39.11168318,0,0,AENJPLPP_00144,AENJPLPP_00144,CDS,gdhIV,Glucose 1-dehydrogenase 4,1.1.1.47,COG1028,gdhIV,"gdhIV
+(AENJPLPP_00144)",Up in serum
+14.29840543,2.605374851,0.590007992,4.415829765,1.01E-05,1.56E-05,AENJPLPP_02165,AENJPLPP_02165,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+457.7458384,2.59180223,0.131069795,19.77421444,4.97E-87,2.57E-86,AENJPLPP_02887,AENJPLPP_02887,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1668.345115,2.588755403,0.074809964,34.60441995,2.17E-262,3.02E-261,AENJPLPP_00426,AENJPLPP_00426,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2446.953235,2.586710979,0.0704225,36.73131451,2.31E-295,3.70E-294,AENJPLPP_00140,AENJPLPP_00140,CDS,xpkA_1,Xylulose-5-phosphate phosphoketolase,4.1.2.9,,xpkA_1,"xpkA_1
+(AENJPLPP_00140)",Up in serum
+18.34293489,2.576409582,0.499756865,5.155326047,2.53E-07,4.15E-07,AENJPLPP_00920,AENJPLPP_00920,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+971.3282257,2.561905478,0.120541268,21.25334771,3.07E-100,1.77E-99,AENJPLPP_02146,AENJPLPP_02146,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+463.7311618,2.561799541,0.120153753,21.32101146,7.25E-101,4.22E-100,AENJPLPP_00716,AENJPLPP_00716,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+8189.565375,2.543456458,0.058124689,43.75862462,0,0,AENJPLPP_01577,AENJPLPP_01577,CDS,brnQ_1,Branched-chain amino acid transport system 2 carrier protein,,COG1114,brnQ_1,"brnQ_1
+(AENJPLPP_01577)",Up in serum
+7028.211271,2.542448827,0.070518492,36.053647,1.21E-284,1.83E-283,AENJPLPP_00244,AENJPLPP_00244,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2801.129372,2.540643,0.077502626,32.78137957,1.08E-235,1.35E-234,AENJPLPP_00477,AENJPLPP_00477,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+3059.642806,2.534800743,0.069316742,36.56837685,9.10E-293,1.45E-291,AENJPLPP_01971,AENJPLPP_01971,CDS,ndk,Nucleoside diphosphate kinase,2.7.4.6,COG0105,ndk,"ndk
+(AENJPLPP_01971)",Up in serum
+1108.815305,2.519068231,0.082433167,30.5589161,4.30E-205,4.56E-204,AENJPLPP_00141,AENJPLPP_00141,CDS,xpkA_2,Xylulose-5-phosphate phosphoketolase,4.1.2.9,,xpkA_2,"xpkA_2
+(AENJPLPP_00141)",Up in serum
+34.55553667,2.51798621,0.371807603,6.772282727,1.27E-11,2.38E-11,AENJPLPP_02605,AENJPLPP_02605,CDS,pfkB,ATP-dependent 6-phosphofructokinase isozyme 2,2.7.1.11,COG1105,pfkB,"pfkB
+(AENJPLPP_02605)",Up in serum
+555.3768433,2.516048939,0.107695237,23.36267601,1.02E-120,6.76E-120,AENJPLPP_01078,AENJPLPP_01078,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+23.58470568,2.489621,0.450434114,5.527159077,3.25E-08,5.49E-08,AENJPLPP_02316,AENJPLPP_02316,CDS,NA,putative phosphotransferase enzyme IIB component,2.7.1.-,,putative phosphotransferase enzyme IIB component,putative phosphotransferase enzyme IIB component,Up in serum
+6359.650379,2.484882708,0.063112531,39.37225539,0,0,AENJPLPP_02354,AENJPLPP_02354,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+421.8518414,2.473908669,0.121696623,20.32849068,7.20E-92,3.90E-91,AENJPLPP_02374,AENJPLPP_02374,CDS,rex_1,Redox-sensing transcriptional repressor Rex,,COG2344,rex_1,"rex_1
+(AENJPLPP_02374)",Up in serum
+3496.205514,2.473152091,0.087890526,28.1390065,3.27E-174,2.90E-173,AENJPLPP_02521,AENJPLPP_02521,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+3163.17738,2.472112244,0.084953731,29.09951355,3.64E-186,3.48E-185,AENJPLPP_02341,AENJPLPP_02341,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+25449.4816,2.472100902,0.058677284,42.13045904,0,0,AENJPLPP_02528,AENJPLPP_02528,CDS,hpf,Ribosome hibernation promotion factor,,,hpf,"hpf
+(AENJPLPP_02528)",Up in serum
+1618.83066,2.459842411,0.236203509,10.41408071,2.14E-25,5.39E-25,AENJPLPP_00278,AENJPLPP_00278,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2729.892275,2.458115734,0.077034031,31.90947815,1.97E-223,2.32E-222,AENJPLPP_01830,AENJPLPP_01830,CDS,asd,Aspartate-semialdehyde dehydrogenase,1.2.1.11,COG0136,asd,"asd
+(AENJPLPP_01830)",Up in serum
+24898.54368,2.454047468,0.051981163,47.21032264,0,0,AENJPLPP_01157,AENJPLPP_01157,CDS,NA,Muramidase-2,3.2.1.17,,Muramidase-2,Muramidase-2,Up in serum
+2047.847424,2.428458827,0.073912187,32.85600005,9.35E-237,1.17E-235,AENJPLPP_01980,AENJPLPP_01980,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+13.89582384,2.421203362,0.559455779,4.327783274,1.51E-05,2.32E-05,AENJPLPP_03077,AENJPLPP_03077,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+3511.696762,2.418174284,0.096225256,25.13034928,2.32E-139,1.73E-138,AENJPLPP_00107,AENJPLPP_00107,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+221.4793506,2.41409383,0.15680821,15.39520051,1.76E-53,6.60E-53,AENJPLPP_02392,AENJPLPP_02392,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+135.4138869,2.411170432,0.194239039,12.41341827,2.21E-35,6.42E-35,AENJPLPP_02925,AENJPLPP_02925,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+48.0722823,2.408422996,0.304034552,7.921543732,2.35E-15,4.85E-15,AENJPLPP_00924,AENJPLPP_00924,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+31.46992653,2.407439289,0.369596091,6.513703327,7.33E-11,1.34E-10,AENJPLPP_02923,AENJPLPP_02923,CDS,NA,IS30 family transposase IS1252,,COG2826,IS30 family transposase IS1252,IS30 family transposase IS1252,Up in serum
+6912.722812,2.399403413,0.064291065,37.32094674,7.51E-305,1.25E-303,AENJPLPP_00715,AENJPLPP_00715,CDS,yvgN,Glyoxal reductase,1.1.1.-,COG0656,yvgN,"yvgN
+(AENJPLPP_00715)",Up in serum
+36.23837524,2.398678893,0.348922132,6.874539253,6.22E-12,1.18E-11,AENJPLPP_02181,AENJPLPP_02181,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+45.93896125,2.398534943,0.310007261,7.737028267,1.02E-14,2.07E-14,AENJPLPP_02179,AENJPLPP_02179,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+620.4729987,2.393502097,0.097913091,24.44516942,5.66E-132,3.99E-131,AENJPLPP_00139,AENJPLPP_00139,CDS,NA,phosphoketolase,4.1.2.-,,phosphoketolase,phosphoketolase,Up in serum
+297.891493,2.389271921,0.134592529,17.75189118,1.67E-70,7.46E-70,AENJPLPP_02653,AENJPLPP_02653,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+202.8677787,2.385242374,0.163598844,14.57982413,3.77E-48,1.32E-47,AENJPLPP_01866,AENJPLPP_01866,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+8286.485674,2.377810771,0.070035838,33.95134327,1.17E-252,1.57E-251,AENJPLPP_01079,AENJPLPP_01079,CDS,NA,Putative universal stress protein,,,Putative universal stress protein,Putative universal stress protein,Up in serum
+1312.723575,2.377588053,0.081541984,29.15783907,6.65E-187,6.40E-186,AENJPLPP_00047,AENJPLPP_00047,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2678.726622,2.368580976,0.073257864,32.33210551,2.48E-229,2.98E-228,AENJPLPP_00425,AENJPLPP_00425,CDS,cmpD,Bicarbonate transport ATP-binding protein CmpD,3.6.3.-,,cmpD,"cmpD
+(AENJPLPP_00425)",Up in serum
+1397.21929,2.358313175,0.079624692,29.61786237,8.80E-193,8.74E-192,AENJPLPP_02308,AENJPLPP_02308,CDS,msmX,Oligosaccharides import ATP-binding protein MsmX,7.5.2.-,COG3839,msmX,"msmX
+(AENJPLPP_02308)",Up in serum
+2857.496207,2.355313409,0.066189057,35.58463438,2.42E-277,3.55E-276,AENJPLPP_00978,AENJPLPP_00978,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+305.3157074,2.347429185,0.13028623,18.01747724,1.42E-72,6.55E-72,AENJPLPP_02182,AENJPLPP_02182,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+3347.125405,2.344393824,0.062954561,37.23945955,1.57E-303,2.60E-302,AENJPLPP_00044,AENJPLPP_00044,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1190.393533,2.342791378,0.078857897,29.70902677,5.87E-194,5.87E-193,AENJPLPP_02767,AENJPLPP_02767,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+116.9402658,2.337539504,0.195269755,11.9708221,5.05E-33,1.41E-32,AENJPLPP_02957,AENJPLPP_02957,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1519.768628,2.332967548,0.075391125,30.94485645,2.98E-210,3.27E-209,AENJPLPP_00043,AENJPLPP_00043,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+47.9372522,2.330367073,0.302918863,7.693040479,1.44E-14,2.91E-14,AENJPLPP_02170,AENJPLPP_02170,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+183.8920441,2.309430562,0.158925077,14.53156797,7.65E-48,2.66E-47,AENJPLPP_02924,AENJPLPP_02924,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+227.9468239,2.304016688,0.153167573,15.04245735,3.87E-51,1.40E-50,AENJPLPP_02403,AENJPLPP_02403,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2273.513062,2.303726165,0.080517599,28.61146129,4.84E-180,4.42E-179,AENJPLPP_01832,AENJPLPP_01832,CDS,scmP,N-acetylcysteine deacetylase,3.5.1.-,COG1473,scmP,"scmP
+(AENJPLPP_01832)",Up in serum
+2282.447661,2.299323369,0.074498272,30.86411696,3.62E-209,3.94E-208,AENJPLPP_00858,AENJPLPP_00858,CDS,crtK-2,Tryptophan-rich protein TspO,,COG3476,crtK-2,"crtK-2
+(AENJPLPP_00858)",Up in serum
+73.05191109,2.298841365,0.249502753,9.213691382,3.15E-20,7.21E-20,AENJPLPP_02942,AENJPLPP_02942,CDS,NA,IS6 family transposase IS1216E,,,IS6 family transposase IS1216E,IS6 family transposase IS1216E,Up in serum
+1629.090453,2.294885628,0.096160315,23.86520498,7.04E-126,4.84E-125,AENJPLPP_01829,AENJPLPP_01829,CDS,dapH_2,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase",2.3.1.89,COG2171,dapH_2,"dapH_2
+(AENJPLPP_01829)",Up in serum
+4312.45274,2.286048392,0.079657456,28.69848594,3.98E-181,3.67E-180,AENJPLPP_01831,AENJPLPP_01831,CDS,yclM,Aspartokinase 3,2.7.2.4,COG0527,yclM,"yclM
+(AENJPLPP_01831)",Up in serum
+435.8616409,2.283576414,0.110515296,20.66298962,7.46E-95,4.14E-94,AENJPLPP_02309,AENJPLPP_02309,CDS,mgsA,Methylglyoxal synthase,4.2.3.3,COG1803,mgsA,"mgsA
+(AENJPLPP_02309)",Up in serum
+1259.337532,2.279809836,0.080265499,28.40335958,1.84E-177,1.66E-176,AENJPLPP_00059,AENJPLPP_00059,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+478.9946254,2.276434361,0.123663058,18.40836216,1.13E-75,5.37E-75,AENJPLPP_02768,AENJPLPP_02768,CDS,srtA_1,Sortase A,3.4.22.-,,srtA_1,"srtA_1
+(AENJPLPP_02768)",Up in serum
+21.85441682,2.266052452,0.46197789,4.905110182,9.34E-07,1.50E-06,AENJPLPP_02255,AENJPLPP_02255,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+575.9071541,2.253830878,0.100636709,22.39571317,4.33E-111,2.70E-110,AENJPLPP_02565,AENJPLPP_02565,CDS,licH,putative 6-phospho-beta-glucosidase,3.2.1.86,COG1486,licH,"licH
+(AENJPLPP_02565)",Up in serum
+64.52577042,2.244685127,0.264470022,8.48748417,2.11E-17,4.55E-17,AENJPLPP_03018,AENJPLPP_03018,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+769.0793657,2.243029873,0.122820813,18.26262032,1.64E-74,7.75E-74,AENJPLPP_00041,AENJPLPP_00041,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+491.6365675,2.227539486,0.114296739,19.48909048,1.36E-84,6.97E-84,AENJPLPP_00744,AENJPLPP_00744,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+196.6493157,2.226708342,0.162621734,13.69256306,1.12E-42,3.67E-42,AENJPLPP_00048,AENJPLPP_00048,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+413.3355603,2.221595806,0.11204499,19.82771216,1.72E-87,8.90E-87,AENJPLPP_01905,AENJPLPP_01905,CDS,sbnD_2,Staphyloferrin B transporter,,,sbnD_2,"sbnD_2
+(AENJPLPP_01905)",Up in serum
+1705.607505,2.215852316,0.077862559,28.45850871,3.82E-178,3.46E-177,AENJPLPP_00670,AENJPLPP_00670,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+971.4462379,2.21571931,0.088919123,24.91836653,4.71E-137,3.45E-136,AENJPLPP_00045,AENJPLPP_00045,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2136.729768,2.214525168,0.071171317,31.11541635,1.49E-212,1.65E-211,AENJPLPP_00387,AENJPLPP_00387,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+6360.125103,2.208037855,0.061410554,35.95534815,4.18E-283,6.25E-282,AENJPLPP_01595,AENJPLPP_01595,CDS,ctc,General stress protein CTC,,COG1825,ctc,"ctc
+(AENJPLPP_01595)",Up in serum
+16162.92014,2.203555925,0.061147624,36.03665637,2.23E-284,3.36E-283,AENJPLPP_01056,AENJPLPP_01056,CDS,spxA_3,Regulatory protein Spx,,COG1393,spxA_3,"spxA_3
+(AENJPLPP_01056)",Up in serum
+64.62877987,2.202197505,0.254991598,8.636353214,5.80E-18,1.27E-17,AENJPLPP_03056,AENJPLPP_03056,CDS,NA,IS6 family transposase IS1216E,,,IS6 family transposase IS1216E,IS6 family transposase IS1216E,Up in serum
+1232.742937,2.197859813,0.083698329,26.25930327,5.60E-152,4.43E-151,AENJPLPP_01274,AENJPLPP_01274,CDS,NA,putative oxidoreductase,1.-.-.-,,putative oxidoreductase,putative oxidoreductase,Up in serum
+1013.874548,2.191364084,0.092045507,23.80739876,2.80E-125,1.91E-124,AENJPLPP_02277,AENJPLPP_02277,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+144.4074187,2.178353513,0.175411773,12.41851372,2.07E-35,6.03E-35,AENJPLPP_02766,AENJPLPP_02766,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+4687.163304,2.173471461,0.071005151,30.61005315,8.99E-206,9.61E-205,AENJPLPP_02275,AENJPLPP_02275,CDS,nlhH,Carboxylesterase NlhH,3.1.1.1,COG0657,nlhH,"nlhH
+(AENJPLPP_02275)",Up in serum
+50.48045322,2.168838973,0.293524117,7.388963453,1.48E-13,2.91E-13,AENJPLPP_00357,AENJPLPP_00357,CDS,bbmA,Intracellular maltogenic amylase,3.2.1.-,COG0366,bbmA,"bbmA
+(AENJPLPP_00357)",Up in serum
+1335.029929,2.154361104,0.082098886,26.24105167,9.04E-152,7.07E-151,AENJPLPP_02279,AENJPLPP_02279,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+16.84022507,2.149517868,0.489468135,4.391537905,1.13E-05,1.74E-05,AENJPLPP_01329,AENJPLPP_01329,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+2156.087247,2.148246727,0.074879334,28.6894475,5.17E-181,4.75E-180,AENJPLPP_01615,AENJPLPP_01615,CDS,NA,Zinc-type alcohol dehydrogenase-like protein,,,Zinc-type alcohol dehydrogenase-like protein,Zinc-type alcohol dehydrogenase-like protein,Up in serum
+1740.576532,2.142715636,0.075021671,28.56128905,2.03E-179,1.85E-178,AENJPLPP_02486,AENJPLPP_02486,CDS,rpoN1,RNA polymerase sigma-54 factor 1,,COG1508,rpoN1,"rpoN1
+(AENJPLPP_02486)",Up in serum
+32229.13332,2.142127555,0.053034874,40.3909237,0,0,AENJPLPP_01530,AENJPLPP_01530,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+386.9839168,2.130035103,0.117437608,18.13758936,1.61E-73,7.46E-73,AENJPLPP_02362,AENJPLPP_02362,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+889.5949534,2.124606448,0.084771158,25.06284568,1.26E-138,9.40E-138,AENJPLPP_00391,AENJPLPP_00391,CDS,xerC_3,Tyrosine recombinase XerC,,,xerC_3,"xerC_3
+(AENJPLPP_00391)",Up in serum
+745.5403376,2.103493523,0.093613469,22.46998788,8.16E-112,5.13E-111,AENJPLPP_01733,AENJPLPP_01733,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+1134.488002,2.099065753,0.08233459,25.49433649,2.28E-143,1.72E-142,AENJPLPP_00046,AENJPLPP_00046,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+4638.55416,2.071143659,0.07215283,28.70495389,3.31E-181,3.07E-180,AENJPLPP_01069,AENJPLPP_01069,CDS,iolS,Aldo-keto reductase IolS,1.1.1.-,COG0667,iolS,"iolS
+(AENJPLPP_01069)",Up in serum
+2306.583438,2.058200969,0.089164807,23.0831092,6.84E-118,4.46E-117,AENJPLPP_01954,AENJPLPP_01954,CDS,licT_2,Transcription antiterminator LicT,,COG3711,licT_2,"licT_2
+(AENJPLPP_01954)",Up in serum
+270.5537893,2.055143492,0.135685427,15.14638339,8.01E-52,2.93E-51,AENJPLPP_00147,AENJPLPP_00147,CDS,fra,Intracellular iron chaperone frataxin,,COG5646,fra,"fra
+(AENJPLPP_00147)",Up in serum
+1310.618038,2.048767552,0.079886789,25.64588701,4.70E-145,3.58E-144,AENJPLPP_00266,AENJPLPP_00266,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+21.56709806,2.047079577,0.42445457,4.8228473,1.42E-06,2.25E-06,AENJPLPP_00775,AENJPLPP_00775,CDS,ptsG_1,PTS system glucose-specific EIICBA component,2.7.1.199,,ptsG_1,"ptsG_1
+(AENJPLPP_00775)",Up in serum
+969.4528715,2.020438155,0.085785016,23.55234332,1.19E-122,7.91E-122,AENJPLPP_00625,AENJPLPP_00625,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
+164446.0906,2.007835584,0.050307207,39.91148966,0,0,AENJPLPP_01212,AENJPLPP_01212,CDS,NA,hypothetical protein,,,hypothetical protein,hypothetical protein,Up in serum
