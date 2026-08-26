@@ -9,7 +9,7 @@
 
 module load FastQC
 
-fastqc -o ~/Genome_Analysis/outputs/05-fastqc/BH/ ~/Genome_Analysis/raw_data/transcriptomics_data/RNA-Seq_BH/raw/*.fastq.gz
+fastqc -o ~/Genome_Analysis/outputs/05-fastqc/trimmed/BH/ /proj/uppmax2026-1-61/uppmax2026-1-61/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_BH/trimmed/*.fastq.gz
 
-fastqc -o ~/Genome_Analysis/outputs/05-fastqc/serum/ ~/Genome_Analysis/raw_data/transcriptomics_data/RNA-Seq_Serum/raw/*.fastq.gz
+fastqc -o ~/Genome_Analysis/outputs/05-fastqc/trimmed/Serum/ /proj/uppmax2026-1-61/uppmax2026-1-61/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_Serum/trimmed/*.fastq.gz
 
