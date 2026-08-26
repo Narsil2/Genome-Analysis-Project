@@ -1,0 +1,7 @@
+TrimmomaticPE: Started with arguments:
+ -threads 2 /proj/uppmax2026-1-61/uppmax2026-1-61/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_BH/raw/ERR1797974_1.fastq.gz /proj/uppmax2026-1-61/uppmax2026-1-61/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_BH/raw/ERR1797974_2.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/BH//trim_paired_ERR1797974_1.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/BH//trim_single_ERR1797974_1.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/BH//trim_paired_ERR1797974_2.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/BH//trim_single_ERR1797974_2.fastq.gz ILLUMINACLIP:/sw/generic/pixi-envs/shovill-1.4.2/.pixi/envs/default/share/trimmomatic-0.40-0/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 23240177 Both Surviving: 12544127 (53.98%) Forward Only Surviving: 9574381 (41.20%) Reverse Only Surviving: 41596 (0.18%) Dropped: 1080073 (4.65%)
+TrimmomaticPE: Completed successfully

@@ -1,0 +1,16 @@
+#!/bin/bash -l
+#SBATCH -A uppmax2026-1-61
+#SBATCH -p pelle
+#SBATCH -c 1
+#SBATCH -t 02:00:00
+#SBATCH -J fastqc
+#SBATCH --mail-type=ALL
+#SBATCH --output=%x.%j.out
+
+module load Trimmomatic
+
+ADAPTER="/sw/generic/pixi-envs/shovill-1.4.2/.pixi/envs/default/share/trimmomatic-0.40-0/adapters/TruSeq3-PE.fa"
+
+cd /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/
+
+

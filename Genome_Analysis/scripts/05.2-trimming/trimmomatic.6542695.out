@@ -1,0 +1,38 @@
+TrimmomaticPE: Started with arguments:
+ -threads 1 /proj/uppmax2026-1-61/uppmax2026-1-61/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_Serum/raw/ERR1797969_1.fastq.gz /proj/uppmax2026-1-61/uppmax2026-1-61/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_Serum/raw/ERR1797969_2.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/serum//trim_paired_ERR1797969_1.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/serum//trim_single_ERR1797969_1.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/serum//trim_paired_ERR1797969_2.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/serum//trim_single_ERR1797969_2.fastq.gz ILLUMINACLIP:/sw/generic/pixi-envs/shovill-1.4.2/.pixi/envs/default/share/trimmomatic-0.40-0/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 25937368 Both Surviving: 13206103 (50.92%) Forward Only Surviving: 11615499 (44.78%) Reverse Only Surviving: 45013 (0.17%) Dropped: 1070753 (4.13%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 1 /proj/uppmax2026-1-61/uppmax2026-1-61/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_Serum/raw/ERR1797970_1.fastq.gz /proj/uppmax2026-1-61/uppmax2026-1-61/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_Serum/raw/ERR1797970_2.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/serum//trim_paired_ERR1797970_1.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/serum//trim_single_ERR1797970_1.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/serum//trim_paired_ERR1797970_2.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/serum//trim_single_ERR1797970_2.fastq.gz ILLUMINACLIP:/sw/generic/pixi-envs/shovill-1.4.2/.pixi/envs/default/share/trimmomatic-0.40-0/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 26634380 Both Surviving: 14843614 (55.73%) Forward Only Surviving: 10530060 (39.54%) Reverse Only Surviving: 49898 (0.19%) Dropped: 1210808 (4.55%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 1 /proj/uppmax2026-1-61/uppmax2026-1-61/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_Serum/raw/ERR1797971_1.fastq.gz /proj/uppmax2026-1-61/uppmax2026-1-61/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_Serum/raw/ERR1797971_2.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/serum//trim_paired_ERR1797971_1.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/serum//trim_single_ERR1797971_1.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/serum//trim_paired_ERR1797971_2.fastq.gz /home/yogesh22/Genome_Analysis/outputs/05.2-trimming/serum//trim_single_ERR1797971_2.fastq.gz ILLUMINACLIP:/sw/generic/pixi-envs/shovill-1.4.2/.pixi/envs/default/share/trimmomatic-0.40-0/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Exception in thread "main" java.io.IOException: Resource temporarily unavailable
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:349)
+	at java.base/java.util.zip.DeflaterOutputStream.deflate(DeflaterOutputStream.java:284)
+	at java.base/java.util.zip.DeflaterOutputStream.write(DeflaterOutputStream.java:232)
+	at java.base/java.util.zip.GZIPOutputStream.write(GZIPOutputStream.java:148)
+	at java.base/sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:234)
+	at java.base/sun.nio.cs.StreamEncoder.implWrite(StreamEncoder.java:304)
+	at java.base/sun.nio.cs.StreamEncoder.implWrite(StreamEncoder.java:282)
+	at java.base/sun.nio.cs.StreamEncoder.write(StreamEncoder.java:132)
+	at java.base/java.io.OutputStreamWriter.write(OutputStreamWriter.java:205)
+	at java.base/java.io.BufferedWriter.flushBuffer(BufferedWriter.java:120)
+	at java.base/java.io.BufferedWriter.write(BufferedWriter.java:233)
+	at java.base/java.io.Writer.write(Writer.java:249)
+	at org.usadellab.trimmomatic.fastq.FastqSerializer.writeRecord(FastqSerializer.java:63)
+	at org.usadellab.trimmomatic.TrimmomaticPE.processSingleThreaded(TrimmomaticPE.java:86)
+	at org.usadellab.trimmomatic.TrimmomaticPE.process(TrimmomaticPE.java:316)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:555)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
